@@ -1,0 +1,23 @@
+.a{
+    color:white;
+    font-size: 100px;
+}
+.navbar{
+    width:100%;
+}
+.navbar-light .navbar-nav .nav-link {
+    color:whitesmoke;
+    padding-left: 19px;
+}
+.navbar-brand{
+    font-size: 1.75rem;
+    font-style: italic;
+    font: bold;
+    height: 40px;
+    color : #fffaee;
+}
+.nav-link{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
